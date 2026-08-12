@@ -68,7 +68,7 @@
     "typescript": "~5.9.3"
   },
   "devDependencies": {
-    "@angular/language-service": "^21.2.1",
+    "@angular/language-service": "^22.2.0-next.1",
     "@eslint/js": "^10.0.1",
     "@types/express-serve-static-core": "^4.17.9",
     "@types/jwt-decode": "^2.2.1",
