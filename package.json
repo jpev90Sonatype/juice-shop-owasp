@@ -201,7 +201,7 @@
     "diff": "^9.0.0",
     "eslint": "^10.8.1",
     "exif": "^0.6.0",
-    "globals": "^17.4.0",
+    "globals": "^17.11.0",
     "grunt-cli": "^1.5.0",
     "neostandard": "^0.14.0-next",
     "nyc": "^15.1.0",
