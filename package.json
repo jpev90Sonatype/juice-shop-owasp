@@ -206,7 +206,7 @@
     "neostandard": "^0.14.0-next",
     "nyc": "^18.0.0",
     "socket.io-client": "^4.8.3",
-    "supertest": "^7.2.2",
+    "supertest": "^7.3.0",
     "tsx": "^4.23.12",
     "typescript": "^7.0.2",
     "typescript-eslint": "^8.67.0"
