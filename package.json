@@ -183,7 +183,7 @@
     "@types/jws": "^3.2.11",
     "@types/lodash": "^4.17.25",
     "@types/morgan": "^1.9.10",
-    "@types/multer": "^2.2.0",
+    "@types/multer": "^2.3.0",
     "@types/node": "^26.2.0",
     "@types/on-finished": "^2.3.5",
     "@types/pdfkit": "^0.17.6",
